@@ -1,5 +1,4 @@
-# the_red_room
-Prismatic Scenes (i): The Red-Room
+# <a href="https://prismatic-jane-eyre.github.io/the_red_room/">Prismatic Scenes (i): The Red-Room</a>
 
 This prismatic animation, created by Paola Gaudio, presents a passage from the iconic episode in Chapter 2 of Jane Eyre, in which the young Jane, having stood up to John Reed’s bullying, is locked in the ‘red-room’ as a punishment. Brontë’s English is shown together with Danish translations by Aslaug Mikkelsen (1957), Christina Rohde (2015) and Luise Hemmer Pihl (2016), selected and back-translated by Ida Klitgård; French translations by Marion Gilbert & Madeleine Duvivier (1919), R. Redon & J. Dulong (1946), Léon Brodovikoff & Claire Robert (1946), Charlotte Maurat (1964), Sylvère Monod (1966) and Dominique Jean (2008), selected and back-translated by Céline Sabiron (with a few additions by Matthew Reynolds); and Russian translations by Irinarkh Vvedenskii (1849), Anon (1849), Anon (1901), Vera Stanevich (1950) and Irina Gurova (1999), selected and back-translated by Eugenia Kelbert. 
 
